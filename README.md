@@ -12,4 +12,4 @@ A résumé is a marketing tool in which the content should be adapted to suit ea
 
 The complexity or simplicity of various résumé formats tends to produce results varying from person to person, for the occupation, and to the industry. Résumés or CVs used by medical professionals, professors, artists, and people in other specialized fields may be comparatively longer. For example, an artist's résumé, typically excluding any non-art-related employment, may include extensive lists of solo and group exhibitions.
 
-
+"🧙Hocus-pocus!"
